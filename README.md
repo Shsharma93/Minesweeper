@@ -5,4 +5,4 @@ INPUT : The program first accepts a line containing two integers n and m (where 
 
 OUTPUT : The output should contain the field with the safe squares listing the number of adjacent mines to that square.
 
-Sample input and input are included with the codes.
+Sample input and input are included in the sample folder.
